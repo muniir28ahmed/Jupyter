@@ -1,0 +1,3 @@
+This is the first line, because the w (write) flag overwrites anything that was here before
+This is the second line
+This will be added at the end of the file because we used the a (append) flag
